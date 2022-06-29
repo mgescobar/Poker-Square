@@ -7,14 +7,11 @@
 #							 	                                                 #
 ##################################################################
 
-O jogo foi criado de acordo com as regras especificadas no
-enunciado do trabalho, de vídeos e do WikiPedia.
+O jogo foi criado de acordo com as regras especificadas no WikiPedia.
 
 Foi adicionado printf's intuitivos para que o jogador não se perca
 em suas jogadas, bem como a verificações de possiveis erros como
 o de jogadas inválidas (cartas já usadas/fora da matriz tabuleiro).
-
-Não foi modificado os arquivos auxiliares fornecidos pelo professor
 
 O jogador deve utilizar de entradas digitas pelo teclado
 
