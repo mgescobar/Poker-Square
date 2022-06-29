@@ -1,7 +1,9 @@
+# Poker Square em C
+
 ##################################################################
-#							  	 #
-#			Funcionamento				 #
-#							 	 #
+#							  	                                               #
+#			                Funcionamento				                       #
+#							 	                                                 #
 ##################################################################
 
 O jogo foi criado de acordo com as regras especificadas no
